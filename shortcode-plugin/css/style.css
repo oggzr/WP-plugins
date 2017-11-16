@@ -1,0 +1,17 @@
+div.button a {
+	text-align: center;
+	width: 100px;
+	background-color: blue;
+	display: block;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+div.button .test {
+	text-align: right;
+	width: 50px;
+	display: block;
+	padding: 10px;
+	border-radius: 5px;
+}
